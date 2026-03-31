@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/External" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Xml config 2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Xml_config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xml_config3" vcs="Git" />
+  </component>
+</project>
